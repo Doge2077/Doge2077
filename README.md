@@ -4,7 +4,11 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats-git-master-doge2077.vercel.app/api?username=Doge2077&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Doge2077&show_icons=true&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+</p>
+
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Doge2077&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=dracula&column=-1&no-frame=true" width="600"/>
 </p>
 
 
