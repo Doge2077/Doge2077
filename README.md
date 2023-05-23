@@ -13,5 +13,5 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Doge2077&theme=tokyo-night" width="600"/>
+  <img src="https://github-readme-activity-graph-chi.vercel.app/graph?username=Doge2077&theme=tokyo-night" width="600"/>
 </p>
